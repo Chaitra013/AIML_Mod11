@@ -2,7 +2,8 @@ Predict price of used Cars
 
 This project aims to predict the pricing for used carsusing machine learning models. The goal is not only to estimate prices accurately but also to identify which vehicle features have the greatest impact on value. This will help us understand what drives used car pricing and allow the business to price more competitively and prioritize high-value listings. The dataset is from Kaggle.
 
-Key Features Considered
+Key Features Considered: 
+
 Manufaturer (eg : Tesla,BMW)
 Odometer (Mileage)
 Tile Status (eg: Clean,Salvage)
@@ -18,6 +19,7 @@ Notebook Link:
 https://github.com/Chaitra013/AIML_Mod11/blob/main/prompt_II.ipynb
 
 Key Findings:
+
 Prioritize Newer Vehicles: Vehicle age plays a significant role in determining resale value. Newer models are attractive assets for dealerships. Dealers should aim to stock recent-year vehicles whenever possible.
 
 Monitor Odometer Readings: Mileage is directly correlated with depreciation. Vehicles with lower odometer readings retain more value, so prioritizing low-mileage cars can lead to better margins. High-mileage cars should only be considered if they can be sourced at lower costs.
